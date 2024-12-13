@@ -77,6 +77,6 @@
 4. **Bath Pill NGO**
   - Nailfree Initiative of Trees (For Community Outreach and Advocacy).
 
-  ![AngholichiGoli](assests/img/Bath Pill.jpg)
+  ![AngholichiGoli](assests/img/BathPill.jpg)
     
 
