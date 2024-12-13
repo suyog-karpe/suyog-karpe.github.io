@@ -1,3 +1,26 @@
+# Suyog Karpe
+
+Welcome to my portfolio! Here you can find my work and ways to connect with me.
+
+---
+
+### Connect with Me
+
+<div align="left">
+  <a href="https://www.instagram.com/yourusername" target="_blank">
+    <img src="/assets/img/instagram.png" alt="Instagram" width="30" style="margin-right: 10px;">
+  </a>
+  <a href="https://www.linkedin.com/in/yourusername" target="_blank">
+    <img src="/assets/img/linkedin.jpg" alt="LinkedIn" width="30" style="margin-right: 10px;">
+  </a>
+  <a href="mailto:youremail@example.com" target="_blank">
+    <img src="/assets/img/gmail.png" alt="Email" width="30" style="margin-right: 10px;">
+  </a>
+</div>
+
+
+
+
 # Data Scientist | AI Associate
 
 #### Technical Skills: C++, Java, Python, SQL, PHP, JavaScript, HTML/CSS, Git, R.
