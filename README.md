@@ -63,9 +63,7 @@
 - BCG- Data Science
 - Goethe-Zertifikat A1:Fit in Deutsch 1 --- Issued Oct. 2016
 
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
-
-## Volunteerning
+## Volunteering
 1. **Association of Computer Engineering Students (ACES)**
   - Guiding a team of 6 CS students in development of ACES Website for the community.
   - Orchestrating workshops,mentoring coding sessions, and events to enhance skills and encourage continuous learning.
