@@ -94,7 +94,6 @@ Welcome to my portfolio! Here you can find my work and ways to connect with me.
     - Volunteering in developing dynamic websites using HTML, CSS and Python, created a ’URL shortener’ website generated with AI text.
     - Implemented Using Django and deployed using Heroku. Over 1000 active users last recorded in March 2024 also used Data Modelling with SQL to feed into Django.
    
-      ![Collaboration](assests/img/_o1_codingclub.jpg)
 3. **Bath Pill NGO**
   - Nailfree Initiative of Trees (For Community Outreach and Advocacy).
 
