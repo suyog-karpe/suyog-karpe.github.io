@@ -47,7 +47,7 @@
 - Developed a web application utilizing NLP techniques to perform tasks like sentiment analysis, text summarization, and keyword extraction.
 - Built the app using Flask for backend functionality, integrated NLP libraries (NLTK, SpaCy) for text processing, and designed a user-friendly interface with HTML, CSS, and Bootstrap.
 
-  ![NLPapplication](assests/img/NLP-web-app.png)
+![NLPapplication](assests/img/NLP-web-app.png)
 
 ## Hackathons & Certifications
 - Call for Code (IBM): Recognizing the potential to help farmers generate extra income, designed a solution that streamlined the supply of agro-waste to biofuel factories, leveraging IBM’s watsonx.ai to optimize the process.
