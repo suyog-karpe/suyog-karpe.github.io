@@ -49,13 +49,19 @@
 
   ![NLPapplication](assests/img/NLP-web-app.png)
 
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
+## Hackathons & Certifications
+- Call for Code (IBM): Recognizing the potential to help farmers generate extra income, designed a solution that streamlined the supply of agro-waste to biofuel factories, leveraging IBM’s watsonx.ai to optimize the process.
+- IBM- AI and Data
+- Goldman Sachs- Software Engineering
+- Tata Group- Cybersecurity Analyst, Data Visualisation
+- IIT Bombay- Git Training, Java Training, Python Training.
+- NVIDIA- Fundamentals of Deep Learning
+- Udemy- Python, C++ Certification.
+- Google- Data Analytics Professional Certificate
+- British Airways- Data Science
+- pwc- Power BI
+- BCG- Data Science
+- Goethe-Zertifikat A1:Fit in Deutsch 1 --- Issued Oct. 2016
 
 - [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
 
@@ -65,16 +71,12 @@
   - Orchestrating workshops,mentoring coding sessions, and events to enhance skills and encourage continuous learning.
 
     ![ACES](assests/img/Screenshot_2024-02-09_131807.png)
-2. **Call for Code (IBM)**
-  - Recognizing the potential to help farmers generate extra income, designed a solution that streamlined the supply of agro-waste to biofuel factories, leveraging IBM’s watsonx.ai to optimize the process.
-
-    ![Hackathon](assests/img/NLP-web-app.png)
-3. **O(1) Coding Club**
+2. **O(1) Coding Club**
     - Volunteering in developing dynamic websites using HTML, CSS and Python, created a ’URL shortener’ website generated with AI text.
     - Implemented Using Django and deployed using Heroku. Over 1000 active users last recorded in March 2024 also used Data Modelling with SQL to feed into Django.
    
       ![Collaboration](assests/img/_o1_codingclub.jpg)
-4. **Bath Pill NGO**
+3. **Bath Pill NGO**
   - Nailfree Initiative of Trees (For Community Outreach and Advocacy).
 
   ![AngholichiGoli](assests/img/BathPill.jpg)
