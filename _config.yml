@@ -1,5 +1,16 @@
 title: Suyog Karpe
-logo: assests/img/picture1.1.png
+logo: assests/img/picture1.jpg
 #description: text below image
 #show_downloads: true
 theme: jekyll-theme-minimal
+
+social_links:
+  instagram:
+    url: "https://www.instagram.com/yourusername"
+    image: "assests/img/instagram.png"
+  linkedin:
+    url: "https://www.linkedin.com/in/yourusername"
+    image: "assests/img/linkedin.jpg"
+  email:
+    url: "mailto:youremail@example.com"
+    image: "assests/img/gmail.png"
