@@ -7,13 +7,13 @@ Welcome to my portfolio! Here you can find my work and ways to connect with me.
 ### Connect with Me
 
 <div align="left">
-  <a href="https://www.instagram.com/yourusername" target="_blank">
+  <a href="https://www.instagram.com/suyog-karpe" target="_blank">
     <img src="assests/img/instagram.png" alt="Instagram" width="30" style="margin-right: 10px;">
   </a>
-  <a href="https://www.linkedin.com/in/yourusername" target="_blank">
+  <a href="https://www.linkedin.com/in/suyog-karpe" target="_blank">
     <img src="/assests/img/linkedin.jpg" alt="LinkedIn" width="30" style="margin-right: 10px;">
   </a>
-  <a href="mailto:youremail@example.com" target="_blank">
+  <a href="mailto:suyog.karpe03@gmail.com" target="_blank">
     <img src="/assests/img/gmail.png" alt="Email" width="30" style="margin-right: 10px;">
   </a>
 </div>
