@@ -7,15 +7,15 @@
 
 ## Education       		
 - B.E., Computer Science and Engineering | Savitribai Phule Pune University (_Apr 2024_)
-- H.S.C, Bifocul | Kalmadi Shamrao Junior College (_May 2020_) 	
+- H.S.C, Bifocal | Kalmadi Shamrao Junior College (_May 2020_) 	
 
 ## Work Experience
 **AI Associate @ AIT Global India Pvt Ltd (_Dec 2024 - Present_)**
 - Currently working with US and UK based clients. Working in a collaborative environment with use of LLM’s and AI tools for optimization, automation and pipelining.
 
 **Data Analyst Intern @ MedTourEasy (_Nov 2024 - Dec 2024_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+- Worked at MedTourEasy an MNC as a Data Analyst on a project on predictive modelling using R to analyze blood donation patterns, leveraging data preprocessing, machine learning workflows, with tools like caret library.
+- During this period I had experienced the hands on working of a Data Analytics Professional and worked under the supervision of project mentor & developed the project entitled “Analyze Death Age Difference of Right Handers with Left Handers”.
 
 **Data Science Intern @ Allusion Systems Pvt Ltd (_Jun 2024 - Oct 2024_)**
 - Developed Power BI dashboards to analyze sales, inventory, and customer trends for a clothing and fashion accessories e-commerce platform, driving data-driven decision-making and optimizing operations.
@@ -33,14 +33,21 @@
 - Engineered feature extraction system processing 1M+ geolocation data points using Java, integrating temporal and spatial patterns for network analysis.
 - Automated data collection with Firebase, processing 100GB+ of network data, and built ensemble models reducing false predictions by 35%.
 
-![ConnectCraft](/assets/img/eeg_band_discovery.jpeg)
+![ConnectCraft](assests/img/02.jpg)
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+### ETL using AWS-RDS Dream11
+[Code](https://github.com/suyog-karpe/ETL-using-AWS-RDS-Dream11)
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+- Developed an Extract, Transform, Load (ETL) pipeline to process historical IPL match data, creating a Dream11 points system for players.
+- Utilized AWS RDS for database management, Python for data processing, and SQL for querying.
 
-![Bike Study](/assets/img/bike_study.jpeg)
+### ETL using AWS-RDS Dream11
+[Code](https://github.com/suyog-karpe/nlp-web-app)
+
+- Developed a web application utilizing NLP techniques to perform tasks like sentiment analysis, text summarization, and keyword extraction.
+- Built the app using Flask for backend functionality, integrated NLP libraries (NLTK, SpaCy) for text processing, and designed a user-friendly interface with HTML, CSS, and Bootstrap.
+
+  ![ConnectCraft](assests/img/02.jpg)
 
 ## Talks & Lectures
 - Causality: The new science of an old question - GSP Seminar, Fall 2021
