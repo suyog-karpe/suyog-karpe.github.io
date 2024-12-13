@@ -1,5 +1,3 @@
-# Suyog Karpe
-
 Welcome to my portfolio! Here you can find my work and ways to connect with me.
 
 ---
@@ -19,7 +17,7 @@ Welcome to my portfolio! Here you can find my work and ways to connect with me.
 </div>
 
 
-
+---
 
 # Data Scientist | AI Associate
 
