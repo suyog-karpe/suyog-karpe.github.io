@@ -21,7 +21,7 @@ Welcome to my portfolio! Here you can find my work and ways to connect with me.
 
 # Data Scientist | AI Associate
 
-#### Technical Skills: C++, Java, Python, SQL, PHP, JavaScript, HTML/CSS, Git, R.
+#### Technical Skills: C++, Java, Python, SQL, JavaScript, HTML/CSS, Git, R.
 #### Database/Tools: MongoDB, SQL, Firebase, NoSQL, Tableau, Power BI, MS. Excel, AWS, GitHub, Git, VS Code, Visual Studio, PyCharm, Eclipse.
 #### Libraries: NumPy, Pandas, Matplotlib, OpenCV, TensorFlow, Tkinter, Scikit-learn, Seaborn, Pytorch.
 #### Soft Skills: Leadership, Communications, Grit and Perseverance.
