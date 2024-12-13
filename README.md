@@ -64,12 +64,12 @@
   - Guiding a team of 6 CS students in development of ACES Website for the community.
   - Orchestrating workshops,mentoring coding sessions, and events to enhance skills and encourage continuous learning.
 
-    ![ACES](assests/img/NLP-web-app.png)
+    ![ACES](assests/img/Screenshot_2024-02-09_131807.png)
 2. **Call for Code (IBM)**
   - Recognizing the potential to help farmers generate extra income, designed a solution that streamlined the supply of agro-waste to biofuel factories, leveraging IBM’s watsonx.ai to optimize the process.
 
     ![Hackathon](assests/img/NLP-web-app.png)
-3. ** O(1) Coding Club**
+3. **O(1) Coding Club**
     - Volunteering in developing dynamic websites using HTML, CSS and Python, created a ’URL shortener’ website generated with AI text.
     - Implemented Using Django and deployed using Heroku. Over 1000 active users last recorded in March 2024 also used Data Modelling with SQL to feed into Django.
    
